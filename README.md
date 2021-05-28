@@ -32,7 +32,7 @@ The two different datasets are not conjunct, will not be joined and will be trea
 
 ## Model Evaluation
 ![alt text](https://github.com/[calvenjs]/[Learning-Analytics]/blob/main/ModelPerformanceMath.PNG?raw=true)
-https://github.com/calvenjs/Learning-Analytics/blob/main/ModelPerformanceMath.PNG
+![math performance](https://github.com/calvenjs/Learning-Analytics/blob/main/ModelPerformanceMath.PNG)
 
 
 

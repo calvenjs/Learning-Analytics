@@ -31,7 +31,8 @@ The two different datasets are not conjunct, will not be joined and will be trea
 * CART + Logistic Regression with supervisor model RF, 10-fold cross validation
 
 ## Model Evaluation
-![alt text](https://github.com/[calvenjs]/[Learning-Analytics]/blob/[branch]/ModelPerformanceMath.jpg?raw=true)
+![alt text](https://github.com/[calvenjs]/[Learning-Analytics]/blob/main/ModelPerformanceMath.PNG?raw=true)
+https://github.com/calvenjs/Learning-Analytics/blob/main/ModelPerformanceMath.PNG
 
 
 

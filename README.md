@@ -31,10 +31,12 @@ The two different datasets are not conjunct, will not be joined and will be trea
 * CART + Logistic Regression with supervisor model RF, 10-fold cross validation
 
 ## Model Evaluation
-![alt text](https://github.com/[calvenjs]/[Learning-Analytics]/blob/main/ModelPerformanceMath.PNG?raw=true)
 ![math performance](https://github.com/calvenjs/Learning-Analytics/blob/main/ModelPerformanceMath.PNG)
+![math performance](https://github.com/calvenjs/Learning-Analytics/blob/main/ModelPerformancePor.PNG)
 
 
-
+It goes without saying that student achievements are highly influenced by past evaluations (G1 and G2), but also, an explanatory analysis and predictive analytics has shown that there are also other relevant features.
+These features are the most strongly correlated to the student’s performance in the final period: failures, absences, study time, age, father's education, mother's education, mother's job, father's job, going out time, workday alcohol consumption, additional school support, health, interest in higher education, family size, and school.
+As a direct outcome of this research, more efficient student prediction tools can be developed, improving the quality of education and enhancing school resource management. Grade of students can be predicted even without past evaluations results.
 
 

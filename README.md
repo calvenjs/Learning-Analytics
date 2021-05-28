@@ -1,7 +1,9 @@
 # Learning-Analytics Predictive Analytics Module Final Project
 
 ## Project Overview
-In Portugal, the student failure and dropping out rates remains high in Europe. The failure in the core classes of Mathematics and Portuguese is important and severe as it will affect their other remaining subjects. Hence, there is a compelling need to enhance the learning of these two subjects. With the help of Learning Analytics, educators can predict these students’ performance on the two subjects, provide them with personalized learning experience and increase retention rate. Hence, a roll out of collecting students’ data is implemented. The data were collected from school reports based on paper sheets and questionnaires were designed with closed questions for students to answer. The questions were reviewed by school professionals and tested on 15 students for feedback. The questionnaire was later modified to contain 37 questions in a single A4 sheet.
+In Portugal, the student failure and dropping out rates remains high in Europe. The failure in the core classes of Mathematics and Portuguese is important and severe as it will affect their other remaining subjects. Hence, there is a compelling need to enhance the learning of these two subjects. With the help of Learning Analytics, educators can predict these students’ performance on the two subjects, provide them with personalized learning experience and increase retention rate. Hence, a roll out of collecting students’ data is implemented. 
+
+The data were collected from school reports based on paper sheets and questionnaires were designed with closed questions for students to answer. The questions were reviewed by school professionals and tested on 15 students for feedback. The questionnaire was later modified to contain 37 questions in a single A4 sheet.
 This project aims to predict student's achievement and identify key factors that affect education success or failure for the two core subjects; math and portuguese.
 
 ## Data Source
@@ -9,9 +11,12 @@ The dataset is a public data provided by Paulo Cortex and Alice Silva from Unive
 
 ## Data Understanding
 This dataset approaches the student performance by grades in two public secondary school from Alentejo district in Portugal. These two datasets are provided regarding the performance of the students in two distinct subjects: Mathematics and Portuguese. The dataset comprises real-world data of students’ grades, demographic, social and school related features which are collected by using school reports and questionnaires in 2005 and 2006. 
+
 The database of school reports includes a few attributes (the three period grades, number of absences) while the questionnaires are used to complement this information like student’s demographics (mother’s education, family income), social or emotional (alcohol consumption, romance relationship) and school related variables (number of failures, extra-curricular activities, extra paid classes) that were expected to affect student performance. 
+
 The data contains 395 records for Mathematics and 649 records for Portuguese language classes.
 There are 32 explanatory variables and 1 response variable.
+
 The explanatory variables are school, sex, address, family size (famsize), parent’s cohabitation status (Pstatus), mother’s education (Medu), father’s education (Fedu), mother’s job (Mjob), father’s job (Fjob), reason, guardian, traveltime, studytime, failures, extra educational support (schoolsup), family education support (famsup), paid, activities, nursery, interest in higher education (higher), internet, romantic, quality of family relationships (famrel), freetime, goout, workday alcohol consumption (Dalc), weekend alcohol consumption (Walc), health, absences, G1 and G2.
 The response variable is G3.
 

@@ -42,7 +42,6 @@ The two different datasets are not conjunct, will not be joined and will be trea
 ![math performance](https://github.com/calvenjs/Learning-Analytics/blob/main/ModelPerformancePor.PNG)
 
 
-It goes without saying that student achievements are highly influenced by past evaluations (G1 and G2), but also, an explanatory analysis and predictive analytics has shown that there are also other relevant features.
-Failures, absences, study time, age, father's education, mother's education, mother's job, father's job, going out time, workday alcohol consumption, additional school support, health, interest in higher education, family size, and school are strong factors that attributes to a student's performance in Portugal in the final period.
+It is understood that student achievements are highly correlated to by past evaluations (G1 and G2), but also, an explanatory analysis and predictive analytics has shown that there are many other relevant features such as failures, absences, study time, age, father's education, mother's education, mother's job, father's job, going out time, workday alcohol consumption, additional school support, health, interest in higher education, family size, and school. These factors have strong influence to a student's performance in Portugal in the final period.
 As a direct outcome of this research, more efficient student prediction tools can be developed, improving the quality of education and enhancing school resource management. 
 
